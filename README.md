@@ -1,5 +1,5 @@
-# E-Commerce-Card
-Sistema simples em python para um e-commerce de cartas colecionáveis.
+# Yugi Card Search
+Sistema simples em Javascript para pesquisa e visualização de cartas de Yu-Gi-OH
 
 Integrantes:
 - Lucas Meireles Cecilia
